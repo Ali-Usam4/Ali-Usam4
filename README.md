@@ -1,22 +1,48 @@
-![web](https://cdn.prod.website-files.com/65bd01fbefb223c77ff70cf3/65d6159e7bf08ce68a22fbd0_62430a051e734d35fa9f3e0b_WLSSmhPWPsTOUHVemfC4VPHDMFRtjCUIbBGwOgt0NR93B_jx08Rj_7MD0K4cqeRlT4eiFJD1S4_FK4QrQzXDcsw-WHR5epdjl3oWfkTekDpjNlWYFNJ-yaF6K9Rg2ApEZQrwLqcc.gif)
+<div align="center">
+  <img src="https://cdn.prod.website-files.com/65bd01fbefb223c77ff70cf3/65d6159e7bf08ce68a22fbd0_62430a051e734d35fa9f3e0b_WLSSmhPWPsTOUHVemfC4VPHDMFRtjCUIbBGwOgt0NR93B_jx08Rj_7MD0K4cqeRlT4eiFJD1S4_FK4QrQzXDcsw-WHR5epdjl3oWfkTekDpjNlWYFNJ-yaF6K9Rg2ApEZQrwLqcc.gif" width="100%"/>
+</div>
 
+<h1 align="center">👋 Hi, I'm Ali Usama</h1>
+<h3 align="center">📱 Flutter Developer | Passionate about Building Beautiful UIs</h3>
 
-<h1 align="center">Hi 👋, I'm Ali Usama</h1>
-<h3 align="center">A passionate Flutter Developer</h3>
-<img align="right" width="500" src="https://user-images.githubusercontent.com/65242138/199231917-e9595d7a-6159-456b-a1a4-27bd4eccda89.gif">
-- 🔭 I’m currently working on **Flutter mobile app development**
-
-- 🌱 I’m currently learning **iOS**
-
-- 👨‍💻 All of my projects are available at ([www.ali-usama.infy.uk.com](http://www.ali-usama.infy.uk/))
-
-- 📫 How to reach me **ali.usama578@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ali-usam4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kashif imran" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/65242138/199231917-e9595d7a-6159-456b-a1a4-27bd4eccda89.gif" width="350"/>
 </p>
 
+---
+
+### 🔧 About Me
+- 🚀 I’m currently focused on **Flutter mobile app development**
+- 🍎 Exploring the world of **iOS development**
+- 💼 All my projects are available on my portfolio:  
+  [🌐 ali-usama.infy.uk](http://www.ali-usama.infy.uk/)
+- 📬 Reach me at: **ali.usama578@gmail.com**
+
+---
+
+### 📱 Tech Stack
+- **Languages & Frameworks:** Dart, Flutter
+- **Mobile Platforms:** Android, iOS
+- **State Management:** GetX, Cubit, Provider
+- **Tools & Services:** Firebase, REST APIs, Git, Figma, VS Code
+
+---
+
+### 🤝 Connect With Me
+<p>
+  <a href="https://linkedin.com/in/ali-usam4" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" alt="LinkedIn"/>
+  </a>
+</p>
+
+---
+
+### 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ali-usama&show_icons=true&theme=tokyonight" alt="Ali's GitHub stats"/>
+</p>
+
+---
 
 <!---
 kashif0313/kashif0313 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
