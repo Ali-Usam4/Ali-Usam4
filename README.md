@@ -21,7 +21,7 @@ My mission is to build apps that don’t just work—but feel great to use.
 
 📬 **Contact**: ali.usama578@gmail.com  
 📱 **Phone**: +92 301 6374845  
-🌐 [Portfolio](http://www.ali-usama.infy.uk) | [LinkedIn](https://linkedin.com/in/ali-usam4) | [GitHub](https://github.com/ali-usama)
+🌐 [Portfolio](http://www.ali-usama.infy.uk) | [LinkedIn](https://linkedin.com/in/ali-usam4) | [GitHub](https://github.com/ali-usam4)
 
 ---
 
