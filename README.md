@@ -12,7 +12,7 @@
 ---
 
 ### 🔧 About Me
-I'm a **Flutter Developer** with over **3 years of experience** in building cross-platform mobile applications. I specialize in:
+I'm a **Flutter Developer** with over **3 years of experience**, having built **15+ cross-platform mobile applications** for Android and iOS. I specialize in:
 - **State management**, **API integration**, and **CI/CD**
 - Writing clean, testable code
 - Creating apps with seamless UX across Android and iOS
