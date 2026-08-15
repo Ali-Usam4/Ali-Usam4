@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">👋 Hi, I'm Ali Usama</h1>
-<h3 align="center">📱 Flutter Developer | Passionate about High-Performance Mobile Apps</h3>
+<h3 align="center">📱 Senior Flutter Developer | Building Scalable Fintech & Ecommerce Apps</h3>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/65242138/199231917-e9595d7a-6159-456b-a1a4-27bd4eccda89.gif" width="350"/>
@@ -12,48 +12,56 @@
 ---
 
 ### 🔧 About Me
-I'm a **Flutter Developer** with over **4+ years of experience**, having built **15+ cross-platform mobile applications** for Android and iOS. I specialize in:
-- **State management**, **API integration**, and **CI/CD**
-- Writing clean, testable code
-- Creating apps with seamless UX across Android and iOS
 
-My mission is to build apps that don’t just work—but feel great to use.
+I'm a **Senior Flutter Developer** with **4+ years of experience** building scalable, high-performance cross-platform apps for Android and iOS. I'm currently developing **ACE Money Transfer**, a regulated fintech remittance app with **1M+ downloads** and **1.3M+ users** across **75+ countries**.
 
-📬 **Contact**: ali.usama578@gmail.com  
-📱 **Phone**: +92 301 6374845  
-🌐 [Portfolio](http://www.ali-usama.infy.uk) | [LinkedIn](https://linkedin.com/in/ali-usam4) | [GitHub](https://github.com/ali-usam4)
+Across my career, I've delivered **15+ production apps** spanning fintech, ecommerce, and healthcare — including two apps with **1M+ downloads each** — with deep expertise in:
+- State management (Bloc, Cubit, Provider, GetX)
+- REST & GraphQL API integration, Shopify Storefront/Admin APIs
+- Firebase, WebSockets, push notifications
+- Secure authentication & KYC flows
+- CI/CD pipelines and integration testing
+
+My mission is to build apps that don't just work — but feel great to use.
+
+📬 **Contact**: ali.usama578@gmail.com
+📱 **Phone**: +92 301 6374845
+🌐 [Portfolio](http://www.ali-usama.infy.uk) | [LinkedIn](https://linkedin.com/in/ali-usam4)
 
 ---
 
 ### 🛠️ Tech Stack
+
 - **Flutter | Dart | Bloc | Cubit | GetX | Provider**
-- **Firebase | REST APIs | WebSockets | Push Notifications**
+- **REST APIs | GraphQL | Shopify Integrations | Firebase**
+- **WebSockets | Push Notifications | Secure Authentication & KYC**
 - **Git | GitHub Actions | CI/CD | Integration Testing**
 
 ---
 
-### 💼 Work Experience
-- **Flutter Developer at AcclivousByte** (Aug 2024 – Present)  
-  Leading end-to-end app development, API integrations, and performance optimization.
+### 💼 Current Role
 
-- **Flutter Developer at Cyber Advance Solutions** (Jan 2023 – July 2024)  
-  Worked on 8+ mobile apps, implemented Bloc/Cubit, and collaborated closely with the backend team.
+**Senior Flutter Developer — ACE Money Transfer** *(Apr 2026 – Present)*
+Developing and maintaining a cross-border remittance platform serving 1.3M+ users across 75+ countries. Built secure, compliance-driven flows including KYC verification, biometric authentication, real-time exchange rates, and multi-corridor payouts — meeting FCA, FINTRAC, and AUSTRAC regulatory standards.
 
 ---
 
 ### 🚀 Highlighted Projects
-- **Goddess Membership** – Social platform for discussions & insights. *(Android & iOS)*
-- **Helpert** – Medical consultation & video content platform. *(1K+ downloads)*
-- **Pensy AI** – Motivational chatbot with journaling features. *(Android)*
-- **AskThem** – Poll-based social interaction app. *(Android & iOS)*
-- **Dr Mohsin Raza (Dermatologist App)** – Book consultations & get skin care advice.
-- **Lofty Rooms & Lofty Partner** – Hotel booking & management system.
 
----
+- **ACE Money Transfer** — Cross-border remittance app · 1M+ downloads · 1.3M+ users · 4.7★
+  [![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)](https://play.google.com/store/apps/details?id=com.acemoneytransfer.android&hl=en)
+  [![iOS](https://img.shields.io/badge/iOS-000000?style=flat&logo=apple&logoColor=white)](https://apps.apple.com/pk/app/ace-money-transfer/id1290922727)
 
-### 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ali-usama&show_icons=true&theme=tokyonight" alt="Ali's GitHub stats"/>
-</p>
+- **elo Shopping** — Shopify-powered ecommerce app · 1M+ downloads · 4.3★
+  [![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)](https://play.google.com/store/apps/details?id=myexportleftovers.android.app&hl=en)
+  [![iOS](https://img.shields.io/badge/iOS-000000?style=flat&logo=apple&logoColor=white)](https://apps.apple.com/us/app/elo-shopping-app/id1353366258)
+
+- **FX Sup** — VFX production management platform for filmmakers and VFX teams
+  [![Website](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)](https://www.fxsupapp.com/)
+  [![iOS](https://img.shields.io/badge/iOS-000000?style=flat&logo=apple&logoColor=white)](https://apps.apple.com/us/app/fx-sup/id6743161105)
+
+- **Glaura – Beauty Booking** — Salon discovery & appointment booking with in-app payments
+  [![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)](https://play.google.com/store/apps/details?id=com.salif.beautyapp)
+  [![iOS](https://img.shields.io/badge/iOS-000000?style=flat&logo=apple&logoColor=white)](https://apps.apple.com/us/app/glaura-beauty-booking/id6743101981)
 
 ---
